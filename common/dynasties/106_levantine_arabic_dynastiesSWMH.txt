@@ -1,0 +1,182 @@
+# -*- ck2.dynasties -*-
+
+######################################
+#SWMH Levantine Arabic Dynasties
+######################################
+#Levantine Arabic dynasties
+#Dynasties: 1000103573 - 1000103599
+#Dynasties2nd: 1000109000 - 1000109200
+######################################
+
+1000103573 = {
+	name="al-Haythamí"
+	culture = levantine_arabic
+}
+1000103574 = {
+	name="al-Sálihí"
+	culture = levantine_arabic
+}
+1000103575 = {
+	name="al-Lu'lu"
+	culture = levantine_arabic
+}
+1000103576 = {
+	name="al-Jamálí"
+	culture = levantine_arabic
+}
+1000103577 = {
+	name="al-Jahírí"
+	culture = levantine_arabic
+}
+1000103578 = {
+	name="al-Yázúrí"
+	culture = levantine_arabic
+}
+1000103579 = {
+	name="al-Jarjará'í"
+	culture = levantine_arabic
+}
+1000103580 = {
+	name="Tanúkh"
+	culture = levantine_arabic
+}
+1000103581 = {
+	name="al-Abi Aqil"
+	culture = levantine_arabic
+}
+1000103582 = {
+	name="al-Ammarí"
+	culture = levantine_arabic
+}
+1000103583 = {
+	name="al-Lawí"
+	culture = levantine_arabic
+}
+1000103584 = {
+	name="al-Atabekí"
+	culture = levantine_arabic
+}
+1000103585 = {
+	name="al-Sharábí"
+	culture = levantine_arabic
+}
+1000103586 = {
+	name="al-Jarrahí"
+	culture = bedouin_arabic
+}
+1000103587 = {
+	name="al-Fadl"
+	culture = bedouin_arabic
+}
+1000103588 = {
+	name="al-Faraj"
+	culture = bedouin_arabic
+}
+1000103589 = {
+	name="al-Mira"
+	culture = bedouin_arabic
+}
+1000103590 = {
+	name="al-Alí"
+	culture = levantine_arabic
+}
+1000103591 = {
+	name="al-Dizbarí"
+	culture = turkmen
+}
+#1000103592 = {
+#	name="al-Ilyas"
+#	culture = levantine_arabic
+#}
+1000103593 = {
+	name="al-Qal'í"
+	culture = levantine_arabic
+}
+1000103594 = {
+	name="al-Wasífí"
+	culture = levantine_arabic
+}
+1000103595 = {
+	name="al-Bayakbakí"
+	culture = levantine_arabic
+}
+1000103596 = {
+	name="al-Khaqaní"
+	culture = levantine_arabic
+}
+1000103597 = {
+	name="al-Tarkhaní"
+	culture = levantine_arabic
+}
+1000103598 = {
+	name="al-Haydarí" #Mu'in ad-Dawlah Haydar ibn Adud ad-Dawla, governor of Damascus 1061-1063
+	culture = levantine_arabic
+}
+1000103599 = {
+	name="al-Mansurí" #Hisn ad-Dawlah Haydar ibn Mansur, governor of Damascus 1063-1067
+	culture = levantine_arabic
+}
+1000111000 = {
+	name="al-Khadimí"
+	culture = nubian
+}
+1000111001 = {
+	name="al-Nu'maní"
+	culture = maghreb_arabic
+}
+1000111002 = {
+	name="al-Killisí"
+	culture = levantine_arabic
+}
+1000111003 = {
+	name="al-Fallahí"
+	culture = levantine_arabic
+}
+1000111004 = {
+	name="al-Sawwarí"
+	culture = levantine_arabic
+}
+1000111005 = {
+	name="al-Salarí"
+	culture = levantine_arabic
+}
+1000111006 = {
+	name="al-Walakhshí"
+	culture = egyptian_arabic
+}
+1000111007 = {
+	name="al-Kouleïbí"
+	culture = levantine_arabic
+}
+1000111008 = {
+	name="al-Oubeïdallahí"
+	culture = levantine_arabic
+}
+1000111009 = {
+	name="al-Muzahhirí" #Abu Abdallah al-Muzahhir, governor of Damascus 1012-1014
+	culture = levantine_arabic
+}
+1000111010 = {
+	name="al-Attar" #Badr al-Attar, governor of Damascus 1011-1012
+	culture = levantine_arabic
+}
+1000111011 = {
+	name="al-Lihyaní" #Abu Salih Muflih al-Lihyani, governor of Damascus 1004-1009
+	culture = levantine_arabic
+}
+1000111012 = {
+	name="al-Ikhshidí" #Bishara al-Ikhshidi, Ikhshidi Eunuch, governor of Damascus 997-998
+	culture = levantine_arabic
+}
+1000111013 = {
+	name="al-Samsama" #Jaysh al-Samsama, Berber governor of Damascus 998-1000
+	culture = sanhaja
+}
+1000111015 = {
+	name="al-Jafarí" #Abu'l-Hasan Ali ibn Jafar, Governor of Damascus 1002-1004
+	culture = levantine_arabic
+}
+1000111016 = {
+	name="Manjutakinlar" #Manjutakin, Governor of Damascus 991-996
+	culture = turkmen
+}

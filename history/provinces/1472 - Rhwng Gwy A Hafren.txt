@@ -1,0 +1,37 @@
+# -*- ck2.history.provinces -*-
+
+# 1472 - Rhwng Gwy A Hafren
+
+# County Title
+title = c_rhwng
+
+# Settlements
+max_settlements = 3
+b_dolforwyn = tribal
+#b_abbeycwmhir = temple
+#b_aberedw = city
+
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History
+
+1095.1.1={
+	b_dolforwyn = castle
+}
+1136.1.1 = {
+	b_dolforwyn = tribal
+}
+1190.1.1={
+	b_dolforwyn = castle
+}
+1262.11.1 = {
+	b_dolforwyn = tribal
+}
+1279.1.6 = {
+	b_dolforwyn = castle
+}

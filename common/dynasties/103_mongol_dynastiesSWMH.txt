@@ -1,0 +1,57 @@
+# -*- ck2.dynasties -*-
+
+######################################
+#SWMH Mongol Dynasties
+######################################
+#Mongol dynasties
+#Dynasties: 1000054550-1000054599
+
+######################################
+1000054550 = {
+	name="Ogodeid"
+	culture = mongol
+}
+1000054551 = {
+	name="Shibanid" #or Shaybanid
+	culture = mongol
+}
+1000054552 = {
+	name="Orda"
+	culture = mongol
+}
+1000054553 = {
+	name="Tuq-Temurid"
+	culture = mongol
+}
+1000054554 = {
+	name="Ulun-Temurid"
+	culture = mongol
+}
+1000054555 = {
+	name="Boroldaid"
+	culture = mongol
+}
+1000054556 = {
+	name="Jauni-Qorban"
+	culture = mongol
+}
+1000054557 = {
+	name="Tevalid"
+	culture = mongol
+}
+1000054558 = {
+	name="Kublaid"
+	culture = mongol
+}
+1000054559 = {
+	name="Qonqotan"
+	culture = mongol
+}
+1000054560 = {
+	name="Suldus"
+	culture = mongol
+}
+1000054561 = {
+	name="Yasa'uri"
+	culture = mongol
+}

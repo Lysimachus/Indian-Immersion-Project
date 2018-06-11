@@ -1,0 +1,77 @@
+# -*- ck2.history.titles -*-
+
+20.1.1 = {
+	historical_nomad = yes
+}
+800.1.1 = {
+	holder = 1230100
+}
+838.1.1 = {
+	holder = 1230101
+}
+863.1.1 = {
+	holder = 1230103
+}
+873.1.1 = {
+	holder = 1230106
+}
+891.1.1 = {
+	holder = 1230121
+}
+920.1.1 = {
+	holder = 1231985
+}
+960.1.1 = {
+	holder = 1600009
+}
+980.1.1 = {
+	holder = 1230138 #placeholder
+}
+983.1.1 = {
+	holder = 1230138
+}
+1015.1.1 = {
+	historical_nomad = no
+	holder = 1230137
+}
+1042.1.1 = {
+	holder = 0
+}
+1146.1.1 = {
+	historical_nomad = yes
+	set_tribute_suzerain = {
+		who = e_persia
+		type = permanent
+	}
+	holder = 1230154
+}
+1153.1.1 = {
+	clear_tribute_suzerain = e_persia
+}
+1173.1.1 = {
+	holder = 1230155
+}
+1180.1.1 = {
+	holder = 1230156
+}
+1181.1.1 = {
+	holder = 0
+}
+#1188.1.1 = {
+#	holder = 93256
+#}
+#1195.1.1 = {
+#	holder = 93257
+#}
+#1196.1.1 = {
+#	holder = 1232020
+#}
+#1200.1.1 = {
+#	holder = 0
+#}
+#1204.1.1 = {
+#	holder = 1232020
+#}
+#1209.1.1 = {
+#	holder = 0
+#}

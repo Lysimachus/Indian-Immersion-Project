@@ -1,0 +1,25 @@
+# -*- ck2.dynasties -*-
+
+#Panjabi dynasties
+#Dynasties: 1000104001 - 1000104009
+
+1000104001 = {
+	name="Salítí"
+	culture = panjabi
+}
+1000104002 = {
+	name="Munabbí"
+	culture = panjabi
+}
+1000104003 = {
+	name="Sa'dí"
+	culture = panjabi
+}
+1000104004 = {
+	name="Multání"
+	culture = panjabi
+}
+1000104005 = {
+	name="Janjua Shahiya"
+	culture = panjabi
+}

@@ -1,0 +1,38 @@
+# -*- ck2.history.provinces -*-
+
+# 1473 - Gwyr
+
+# County Title
+title = c_gwyr
+# Settlements
+max_settlements = 3
+b_loughor = tribal
+#b_swansea = city
+#b_margam = temple
+
+
+# Misc
+culture = welsh
+religion = catholic
+terrain = hills
+
+# History
+
+1093.4.1 = {
+	b_loughor = castle
+}
+1102.1.1 = {
+	b_loughor = tribal
+}	
+1106.1.1 = {
+	b_loughor = castle
+}
+1197.4.28={
+	b_swansea = city
+}
+1218.1.1 = {
+	b_loughor = tribal
+}
+1220.1.1 = {
+	b_loughor = castle
+}

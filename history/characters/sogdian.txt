@@ -1,0 +1,47 @@
+# -*- ck2.history.characters -*-
+
+#217201 = {
+#	name = Axushfarn
+#	dynasty = 1051115 # Khwatawch
+#	religion = manichean
+#	culture = sogdian
+#	817.3.27 = {
+#		birth = yes
+#	}
+#	833.4.12 = {
+#		add_spouse = 217202
+#	}
+#	865.2.17 = {
+#		death = yes
+#	}
+#}
+#217202 = {
+#	name = Golshan
+#	religion = manichean
+#	culture = sogdian
+#	female = yes
+#	812.8.14 = {
+#		birth = yes
+#	}
+#	885.4.9 = {
+#		death = yes
+#	}
+#}
+#217204 = {
+#	name = Donya
+#	dynasty = 1051115 # Kwatawch
+#	religion = manichean
+#	culture = sogdian
+#	father = 217201
+#	mother = 217202
+#	female = yes
+#	839.11.27 = {
+#		birth = yes
+#	}
+#	904.4.7 = {
+#		death = yes
+#	}
+#}
+
+#Rulers of Khotan, Kashgar, and Yarkand to saka.txt
+

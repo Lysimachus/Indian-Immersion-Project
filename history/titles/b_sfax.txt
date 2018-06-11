@@ -1,0 +1,10 @@
+# -*- ck2.history.titles -*-
+
+1059.1.1 = { #Hammu b. Malil rebels against the Zirids with Banu Riyah support
+	liege = c_kairwan
+	holder = 1600523
+}
+1100.1.1 = { #Zirids take over Sfax
+	liege = c_sfax
+	holder = 0
+}

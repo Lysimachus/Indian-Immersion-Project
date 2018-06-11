@@ -1,0 +1,32 @@
+# -*- ck2.history.titles -*-
+
+1228.5.30 = {
+	liege = e_rajastan
+	holder = 188363 # Gunero I
+	capital = 1600 # Debul
+}
+# Possibly some dynastic fighting with a Chamesar, or may be the same person as Gunero
+1242.1.1 = {
+	holder = 188364 # Muhammed-Tur
+}
+1251.1.1 = {
+	holder = 188365 # Gunero II
+}
+1259.1.1 = {
+	holder = 188366 # Doda III
+}
+1273.1.1 = {
+	holder = 188367 # Tai
+}
+1296.1.1 = {
+	holder = 188368 # Chanesar
+}
+1300.1.1 = {
+	holder = 188369 # Bhoongar III
+}
+1315.1.1 = {
+	holder = 188370 # Khafif III
+}
+1333.1.1 = {
+	holder = 188371 # Doda IV
+}

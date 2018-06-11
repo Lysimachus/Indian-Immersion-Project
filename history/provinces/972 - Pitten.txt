@@ -1,0 +1,27 @@
+# 972 - Pitten
+
+# County Title
+title = c_pitten
+
+# Settlements
+max_settlements = 3
+
+b_seebenstein = castle
+
+#b_wienerneustadt = city
+#b_gloggnitz = temple
+
+#b_pottschach = castle 
+#b_dunkelstein = castle 
+#b_kranichberg = castle 
+#b_wartenstein = castle 
+
+# Misc
+culture = karantanci
+religion = catholic
+
+# History
+955.1.1 = { culture = bavarian }
+1170.1.1 = { culture = german }
+1195.1.1 = { b_wienerneustadt = city }
+

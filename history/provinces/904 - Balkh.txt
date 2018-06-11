@@ -1,0 +1,22 @@
+# -*- ck2.history.provinces -*-
+
+# 904 - Balkh
+
+# County Title
+title = c_balkh
+
+# Settlements
+max_settlements = 5
+b_balkh = castle
+b_tirmidh = city
+b_naw_bahar = temple
+#b_navida = temple
+#b_kalif = castle
+
+# Misc
+culture = khorasani
+religion = sunni
+
+# History
+950.1.1 = { b_kalif = castle }
+1221.1.1 = { remove_settlement = b_naw_bahar }

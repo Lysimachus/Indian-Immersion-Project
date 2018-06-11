@@ -1,0 +1,194 @@
+# -*- ck2.history.characters -*-
+
+###############################################################
+#  SWMH Bulgarian characters
+###############################################################
+# Characters: 1501201 - 1501500
+##############################################################################################
+
+1501201 = {
+	name="Kubasar"
+	dynasty=1000103010
+	religion="orthodox"
+	culture="cuman"
+
+	1209.1.1={
+		birth = yes
+	}
+	1262.1.1={
+		death = yes
+	}
+}
+1501202 = {
+	name="Darman"
+	dynasty=1000103010
+	religion="orthodox"
+	culture="cuman"
+
+	1243.1.1={
+		culture="bulgarian"	
+		birth = yes
+	}
+	1291.1.1={
+		death = yes
+	}
+}
+1501203 = {
+	name="Kudelin"
+	dynasty=1000103010
+	religion="orthodox"
+	culture="cuman"
+
+	1245.1.1={
+		culture="bulgarian"		
+		birth = yes
+	}
+	1291.1.1={
+		death = yes
+	}
+}
+1501204 = {
+	name="Krakra"
+	dynasty=1000101409
+	religion="orthodox"
+	culture="bulgarian"
+	father=1501211
+	970.1.1={	
+		birth = yes
+	}
+	1029.1.1={
+		death = yes
+	}
+}
+1501205 = {
+	name="David"
+	dynasty=702
+	religion="orthodox"
+	culture="bulgarian"
+	father=70381
+	938.1.1={
+		birth=yes
+	}
+	976.6.1={
+		death=yes
+	}
+}
+1501206 = {
+	name="Moisei"
+	dynasty=702
+	religion="orthodox"
+	culture="bulgarian"
+	father=70381
+	939.1.1={
+		birth=yes
+	}
+	976.6.1={
+		death=yes
+	}
+}
+1501207 = {
+	name="Anastazya" #Unnamed third daughter of Samuel. Reported in some places that she was called Anastazya and that she was married to Vazul of Hungary
+	female = yes
+	dynasty=702
+	religion="orthodox"
+	culture="bulgarian"
+	father=728
+	mother=1500425	
+	984.1.1={
+		birth=yes
+	}
+	1031.1.1={
+		death=yes
+	}
+}
+1501208 = {
+	name="Dragomouzos" #Surrendered Seres and Strumica to the Byzantines in 1018 and was rewarded with the title of Patrician, signifying that he became a governor immediately. Lets just keep him in his home region
+	dynasty=1000101417
+	religion="orthodox"
+	culture="bulgarian"
+
+	977.1.1={	
+		birth = yes
+	}
+	1032.1.1={
+		death = yes
+	}
+}
+1501209 = {
+	name="Samuil" #An unnamed son of Krakra is mentioned in connection with his surrender to Basil in Skylitzes
+	dynasty=1000101409
+	religion="orthodox"
+	culture="bulgarian"
+	father=1501204
+	993.1.1={	
+		birth = yes
+	}
+	1035.1.1={
+		death = yes
+	}
+}
+1501210 = {
+	name="Petar" #An unnamed brother of Krakra is mentioned in connection with his surrender to Basil in Skylitzes
+	dynasty=1000101409
+	religion="orthodox"
+	culture="bulgarian"
+	father=1501211
+	974.1.1={	
+		birth = yes
+	}
+	1038.1.1={
+		death = yes
+	}
+}
+1501211 = {
+	name="Simeon" #Placeholder father of Krakra
+	dynasty=1000101409
+	religion="orthodox"
+	culture="bulgarian"
+
+	940.1.1={	
+		birth = yes
+	}
+	996.1.1={
+		death = yes
+	}
+}
+1501212 = {
+	name="Nikulitsa" #Known grandfather of the later Nikoulitzas. Was one of the few Generals who wished to continue resistance in the Summer of 1018. Finally surrendered when the odds became downright hopeless and he was put under house arrest afterwards.
+	dynasty=1000102822
+	religion="orthodox"
+	culture="bulgarian"
+
+	969.1.1={
+		birth = yes
+	}
+	1021.1.1={
+		death = yes
+	}
+}
+1501213 = {
+	name="Karaton" #fictional
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=159126
+	805.1.1={
+		birth="805.1.1"
+	}
+	859.1.1={
+		death="859.1.1"
+	}
+}
+1501214 = {
+	name="Islivan" #fictional
+	dynasty=8636
+	religion="tengri_pagan"
+	culture="bulgarian"
+	father=1501213
+	822.1.1={
+		birth="822.1.1"
+	}
+	866.1.1={
+		death="866.1.1"
+	}
+}

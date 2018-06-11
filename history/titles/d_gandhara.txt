@@ -1,0 +1,28 @@
+# -*- ck2.history.titles -*-
+
+964.1.1 = {
+	holder = 1240003
+}
+1001.12.1 = {
+	liege = 0
+	holder = 0
+}
+1041.8.1 = {
+	liege = k_kafarestan
+	holder = 1230360
+}
+1048.1.1 = {
+	holder = 1230209
+}
+1053.1.1 = {
+	liege = 0
+	holder = 0
+}
+1097.1.1 = { #commander of Lahore, but putting him here instead
+	liege = k_kafarestan
+	holder = 1230347
+}
+1116.1.1 = {
+	liege = 0
+	holder = 0
+}

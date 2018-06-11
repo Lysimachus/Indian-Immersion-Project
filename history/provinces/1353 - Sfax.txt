@@ -1,0 +1,27 @@
+# -*- ck2.history.provinces -*-
+
+# 1353 - Sfax
+
+# County Title
+title = c_sfax
+
+# Settlements
+max_settlements = 5
+
+b_sfax = castle
+#b_mahdia = castle
+b_haydaran = city
+#b_slakta = temple
+b_alhamma = temple
+
+# Misc
+culture = maghreb_arabic
+religion = sunni
+
+# History
+921.1.1 = {
+	b_mahdia = castle
+	capital = b_mahdia
+}
+1067.1.1 = { remove_settlement = b_alhamma  }
+

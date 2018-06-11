@@ -1,0 +1,35 @@
+# -*- ck2.history.titles -*-
+
+# Bayawut
+1042.1.1 = {
+	liege = k_cuman
+	holder = 1233218
+}
+1065.1.1 = {
+	liege = k_qangli
+	set_tribute_suzerain = {
+		who = e_persia
+		percentage = 0.4
+	}
+}
+1072.1.1 = {
+	holder = 1233219
+}
+1077.1.1 = {
+	clear_tribute_suzerain = e_persia
+}
+1091.1.1 = {
+	holder = 1233220
+}
+1122.1.1 = {
+	holder = 1233221
+}
+1156.1.1 = {
+	holder = 1233222
+}
+1198.1.1 = {
+	holder = 1233225
+}
+1223.1.1 = {
+	holder = 0 # Mongols put down revolt
+}
